@@ -11,6 +11,7 @@ html {
 h1 {
     text-align: center;
     color:white;
+    font-size: 500%;
 }
 
 h2 {
@@ -28,4 +29,16 @@ h3 {
 
 body {
     font-family: "Mickey Font", Helvetica, Arial, sans-serif;
+}
+
+.screen{
+      
+    height: 150px;
+    margin-right: 10px;
+}
+ 
+#screens{ 
+    width: 90%;
+    margin: auto;
+    margin-top: 15%;
 }
