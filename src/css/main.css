@@ -1,0 +1,31 @@
+html { 
+  margin:0;
+  padding:0;
+  background: url(../img/memory.jpg) no-repeat center fixed; 
+  -webkit-background-size: cover; /* pour Chrome et Safari */
+  -moz-background-size: cover; /* pour Firefox */
+  -o-background-size: cover; /* pour Opera */
+  background-size: cover; /* version standardisée */
+}
+
+h1 {
+    text-align: center;
+    color:white;
+}
+
+h2 {
+    text-align: left;
+}
+
+h3 {
+    text-align: right;
+}
+
+@font-face {
+    font-family: "Mickey Font";
+    src: url('../fonts/mickey-webfont.ttf');
+}
+
+body {
+    font-family: "Mickey Font", Helvetica, Arial, sans-serif;
+}
